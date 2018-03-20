@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411360796243",
+    "firebase_url": "https://pushnotificationtest-3ca53.firebaseio.com",
+    "project_id": "pushnotificationtest-3ca53",
+    "storage_bucket": "pushnotificationtest-3ca53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411360796243:android:7b9916d700052afc",
+        "android_client_info": {
+          "package_name": "codingtown.ionicpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411360796243-sb3h5s0v4j6vqpqpmi1lo15s2rre77ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXFFNU0Ef7bdG_HJxC2sdntVRx2SAlQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
